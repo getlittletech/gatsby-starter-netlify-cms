@@ -46,6 +46,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "gatsby-cli": "^4.24.0",
+    "netlify-cli": "^12.0.0",
     "prettier": "^2.0.5"
   },
   "engines": {
