@@ -32,7 +32,7 @@ intro:
       text: >
         Test driven development is at our hearts. One of the best ways to ensure
         high quality from start and to maintain it in the long run.
-    - image: /img/scrum.logo.jpg
+    - image: /img/scrum.logo.png
       text: >
         We believe that software development should be agile, using methods like
         Kanban or Scrum. We can assist with Scrum master role and agile
