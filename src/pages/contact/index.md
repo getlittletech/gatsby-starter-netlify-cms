@@ -1,6 +1,6 @@
 ---
-templateKey: about-page
-path: /about
+templateKey: contact-page
+path: /contact
 title: Contact
 ---
 ### How to contact us
