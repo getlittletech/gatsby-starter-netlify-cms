@@ -3,7 +3,7 @@ heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
 title: Our Team
-image: /img/logo.jpg
+image: /img/logo.png
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -66,7 +66,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/logo.jpg
+full_image: /img/logo.png
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
