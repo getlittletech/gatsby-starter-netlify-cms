@@ -17,7 +17,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/tdd.logo.png
+    - image: /img/tdd.logo.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -55,7 +55,7 @@ main:
     image: /img/react.logo.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/tdd.logo.png
+    image: /img/tdd.logo.jpg
   image3:
     alt: Coffee beans
     image: /img/scrum.logo.png

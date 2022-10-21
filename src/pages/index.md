@@ -23,12 +23,12 @@ intro:
         React and Redux are the main tools we focus on when building single-page
         and react-native apps. Allow to build scalable and maintainable
         solutions.
-    - image: /img/graphql.log.png
+    - image: /img/graphql.logo.png
       text: >
         When it comes to choosing the API, one could stay with a battle-tested
         REST or with a shiny modern GraphQl. We help you to choose the one that
         suits best.
-    - image: /img/tdd.log.jpg
+    - image: /img/tdd.logo.jpg
       text: >
         Test driven development is at our hearts. One of the best ways to ensure
         high quality from start and to maintain it in the long run.
@@ -54,8 +54,9 @@ main:
     image: /img/react.logo.png
   image2:
     alt: Test driven development
-    image: /img/tdd.logo.png
+    image: /img/tdd.logo.jpg
+
   image3:
     alt: Agile and Scrum
-    image: /img/scrum.logo.jpg
+    image: /img/scrum.logo.png
 ---
