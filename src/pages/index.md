@@ -50,12 +50,12 @@ main:
     We hold our development to the highest standards. Using the right tools and
     mindset. Building the software solutions you love.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: React and React Native
+    image: /img/react.logo.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Test driven development
+    image: /img/tdd.logo.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Agile and Scrum
+    image: /img/scrum.logo.jpg
 ---
