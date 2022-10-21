@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Web and apps
-image: /img/home-jumbotron.jpg
+image: /img/logo.png
 heading: Web and apps built with React
 subheading: Web and apps
 mainpitch:
